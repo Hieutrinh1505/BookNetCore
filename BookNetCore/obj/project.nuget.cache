@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjIE/NJtjcl0DEEkLe1XJU+Z950Eu0qFld2LB4b0xSl0A0WDk9yI9ZVgY/p5DQP7/Cm/xyS+sqxDCq09il2YLQ==",
+  "success": true,
+  "projectFilePath": "/Users/hieutrinh/Desktop/BookNetCore/BookNetCore/BookNetCore.csproj",
+  "expectedPackageFiles": [
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.13/microsoft.netcore.app.host.osx-arm64.6.0.13.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

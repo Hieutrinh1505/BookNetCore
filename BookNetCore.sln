@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookNetCore", "BookNetCore\BookNetCore.csproj", "{B120FAB1-8E78-4B92-ABBE-CDC8401DB92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B120FAB1-8E78-4B92-ABBE-CDC8401DB92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B120FAB1-8E78-4B92-ABBE-CDC8401DB92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B120FAB1-8E78-4B92-ABBE-CDC8401DB92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B120FAB1-8E78-4B92-ABBE-CDC8401DB92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1084F915-0D92-4DF5-9A53-94453261AEF0}
+	EndGlobalSection
+EndGlobal
